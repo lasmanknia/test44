@@ -1,0 +1,58 @@
+body{
+    transition: background-color 0s, color 0s;
+}
+/* Dark mode styles */
+body.dark-mode {
+    background-color: #020202;
+    color: #ffffff;
+}
+
+.dark-mode a {
+    color: #fffeff;
+}
+
+.dark-mode p {
+    color: #ffffff;
+}
+.dark-mode .navigation {
+    background-color: black;
+}
+.dark-mode ion-icon{
+    color: white;
+}
+.dark-mode .logopic:hover{
+    background-color: black;
+}
+.dark-mode .middle i{
+    color: black;
+}
+.dark-mode .box{
+    box-shadow:rgba(199, 199, 201, 0.833) 0 1px 0px,rgba(174, 174, 177, 0.76) 0 0 8px;
+}
+.dark-mode .counter-container{
+    box-shadow:rgba(199, 199, 201, 0.833) 0 1px 0px,rgba(174, 174, 177, 0.76) 0 0 8px;
+}
+.dark-mode .ser a{
+    box-shadow:rgba(199, 199, 201, 0.833) 0 1px 0px,rgba(174, 174, 177, 0.76) 0 0 8px;
+}
+.dark-mode #leaderboard{
+    box-shadow:rgba(199, 199, 201, 0.833) 0 1px 0px,rgba(174, 174, 177, 0.76) 0 0 8px;
+}
+.dark-mode .mini{
+    box-shadow:rgba(199, 199, 201, 0.833) 0 1px 0px,rgba(174, 174, 177, 0.76) 0 0 8px;
+}
+.dark-mode .card{
+    box-shadow:rgba(199, 199, 201, 0.833) 0 1px 0px,rgba(174, 174, 177, 0.76) 0 0 8px;
+}
+.dark-mode .post1{
+    box-shadow:rgba(199, 199, 201, 0.833) 0 1px 0px,rgba(174, 174, 177, 0.76) 0 0 8px;
+}
+.dark-mode .loog div{
+    box-shadow:rgba(199, 199, 201, 0.833) 0 1px 0px,rgba(174, 174, 177, 0.76) 0 0 8px;
+}
+.dark-mode input{
+    box-shadow:rgba(199, 199, 201, 0.833) 0 1px 0px,rgba(174, 174, 177, 0.76) 0 0 8px;
+}
+.dark-mode .logopic{
+    box-shadow:rgba(199, 199, 201, 0.833) 0 1px 0px,rgba(174, 174, 177, 0.76) 0 0 8px;
+}
